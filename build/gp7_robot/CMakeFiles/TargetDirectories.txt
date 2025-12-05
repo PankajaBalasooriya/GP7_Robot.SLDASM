@@ -1,0 +1,9 @@
+/home/pankaja/Downloads/GP7_Robot.SLDASM/build/gp7_robot/CMakeFiles/uninstall.dir
+/home/pankaja/Downloads/GP7_Robot.SLDASM/build/gp7_robot/CMakeFiles/gp7_robot_uninstall.dir
+/home/pankaja/Downloads/GP7_Robot.SLDASM/build/gp7_robot/CMakeFiles/test.dir
+/home/pankaja/Downloads/GP7_Robot.SLDASM/build/gp7_robot/CMakeFiles/edit_cache.dir
+/home/pankaja/Downloads/GP7_Robot.SLDASM/build/gp7_robot/CMakeFiles/rebuild_cache.dir
+/home/pankaja/Downloads/GP7_Robot.SLDASM/build/gp7_robot/CMakeFiles/list_install_components.dir
+/home/pankaja/Downloads/GP7_Robot.SLDASM/build/gp7_robot/CMakeFiles/install.dir
+/home/pankaja/Downloads/GP7_Robot.SLDASM/build/gp7_robot/CMakeFiles/install/local.dir
+/home/pankaja/Downloads/GP7_Robot.SLDASM/build/gp7_robot/CMakeFiles/install/strip.dir

@@ -1,0 +1,32 @@
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/config/joint_names_GP7 Robot.SLDASM.yaml
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/config/urdf.rviz
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/launch/gazebo.launch
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/launch/gazebo.launch.py
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/launch/display.launch.py
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/launch/display.launch
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/meshes/link_8.STL
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/meshes/link_3.STL
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/meshes/link_5.STL
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/meshes/link_4.STL
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/meshes/link_7.STL
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/meshes/link_1.STL
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/meshes/link_2.STL
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/meshes/link_6.STL
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/meshes/base_link.STL
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/urdf/GP7 Robot.SLDASM.urdf
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/urdf/GP7 Robot.SLDASM.csv
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/ament_index/resource_index/package_run_dependencies/gp7_robot
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/ament_index/resource_index/parent_prefix_path/gp7_robot
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/environment/ament_prefix_path.sh
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/environment/ament_prefix_path.dsv
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/environment/path.sh
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/environment/path.dsv
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/local_setup.bash
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/local_setup.sh
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/local_setup.zsh
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/local_setup.dsv
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/package.dsv
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/ament_index/resource_index/packages/gp7_robot
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/cmake/gp7_robotConfig.cmake
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/cmake/gp7_robotConfig-version.cmake
+/home/pankaja/Downloads/GP7_Robot.SLDASM/install/gp7_robot/share/gp7_robot/package.xml
